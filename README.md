@@ -6,25 +6,28 @@ My name is Henrique Koaski, and I am a QA Analyst with a strong commitment to co
 ## 🧑‍💻 My Skills
 
 **Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=FFD43B)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%2320232a) ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=%23FFD43B)  
 
-**Functional Testing:**  
-![CodeceptJS](https://img.shields.io/badge/CodeceptJS-%232E6F95?style=for-the-badge&logo=codeceptjs&logoColor=white) ![Pytest](https://img.shields.io/badge/Pytest-%2323D18B?style=for-the-badge&logo=pytest&logoColor=white)  
+**Frameworks:**  
+![CodeceptJS](https://img.shields.io/badge/CodeceptJS-%23F5D300?style=for-the-badge&logo=codeceptjs&logoColor=%232E6F95) ![Pytest](https://img.shields.io/badge/Pytest-%2323D18B?style=for-the-badge&logo=pytest&logoColor=white)  
 
 **Web Testing:**  
-![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%234B77BE?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%23000?style=for-the-badge&logo=cypress&logoColor=white)  
+![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%234B77BE?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%2325482C?style=for-the-badge&logo=cypress&logoColor=white)  
 
 **API Testing:**  
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+  
+**Mobile Testing:**  
+![Appium](https://img.shields.io/badge/Appium-%23C7166E?style=for-the-badge&logo=appium&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2300B2A0?style=for-the-badge&logo=android-studio&logoColor=white) 
 
 **Performance Testing:**  
-![K6](https://img.shields.io/badge/K6-%2348B9C6?style=for-the-badge&logo=k6&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-%234B5F5F?style=for-the-badge&logo=apache&logoColor=white)  
-
-**Mobile Testing:**  
-![Appium](https://img.shields.io/badge/Appium-%23C7166E?style=for-the-badge&logo=appium&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2300A14F?style=for-the-badge&logo=android-studio&logoColor=white)  
+![K6](https://img.shields.io/badge/K6-%234B9DFA?style=for-the-badge&logo=k6&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-%234B5F5F?style=for-the-badge&logo=apache&logoColor=white)
 
 **BDD:**  
 ![Gherkin](https://img.shields.io/badge/Gherkin-%236EB1F7?style=for-the-badge&logo=gherkin&logoColor=white)  
+  
+  
+ 
   
   
 
@@ -43,7 +46,7 @@ My name is Henrique Koaski, and I am a QA Analyst with a strong commitment to co
 
 
 
-## 📫 Contato
+## 📫 Contact
 
 <a href = "mailto:henriquekoaski@outlook.com"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/henriquekoaski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
