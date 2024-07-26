@@ -52,6 +52,10 @@ My name is Henrique Koaski, and I am a QA Analyst with a strong commitment to co
 <a href="https://www.linkedin.com/in/henriquekoaski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henriquekoaski/henriquekoaski/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henriquekoaski/henriquekoaski/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/henriquekoaski/henriquekoaski/output/github-contribution-grid-snake.svg">
+</picture>
 
 
