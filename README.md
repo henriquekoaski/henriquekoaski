@@ -15,7 +15,7 @@
 
 ## 📫 Contato
 
-<a href = "mailto:henriquekoaski@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
+<a href = "mailto:henriquekoaski@outlook.com"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/henriquekoaski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
