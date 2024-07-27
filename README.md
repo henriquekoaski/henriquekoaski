@@ -3,7 +3,7 @@
 My name is Henrique Koaski, and I am a QA Analyst with a strong commitment to continuous learning and professional development. I am currently seeking my first opportunity in the field of Quality Assurance, where I can apply my skills in test automation and contribute to ensuring high-quality software.
 
 
-## 🧑‍💻 My Skills
+## 🧑‍💻 My Stack
 
 **Programming Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%2320232a) ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=%23FFD43B)  
@@ -38,7 +38,6 @@ My name is Henrique Koaski, and I am a QA Analyst with a strong commitment to co
 
 
 
-## Testes Automatizados
 
 ![Testes Passados](https://img.shields.io/badge/tests-passed-brightgreen?style=for-the-badge)
 
