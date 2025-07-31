@@ -1,3 +1,6 @@
+<img width="1139" height="636" alt="image" src="https://github.com/user-attachments/assets/bf150ed0-c0d3-4b96-b8d6-04cb6e51c5f6" />
+
+
 # Hi! Welcome to my GitHub profile
 
 My name is Henrique Koaski, and I am a QA Analyst with a strong commitment to continuous learning and professional development. I am currently seeking my first opportunity in the field of Quality Assurance, where I can apply my skills in test automation and contribute to ensuring high-quality software.
