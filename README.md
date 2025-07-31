@@ -1,5 +1,11 @@
-<img width="1139" height="636" alt="image" src="https://github.com/user-attachments/assets/bf150ed0-c0d3-4b96-b8d6-04cb6e51c5f6" />
+<img width="1233" height="303" alt="image" src="https://github.com/user-attachments/assets/0d96034c-ffe1-442c-8798-121c87030976" />
 
+# 🚀 Henrique Koaski
+  ### **QA Engineer | Test Automation Specialist | Quality Advocate**
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquekoaski)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henriquekoaski@outlook.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/henriquekoaski)
 
 # Hi! Welcome to my GitHub profile
 
