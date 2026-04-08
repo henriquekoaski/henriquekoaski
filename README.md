@@ -4,49 +4,120 @@
 
 <img width="1136" height="638" alt="image" src="https://github.com/user-attachments/assets/3ecdc641-65cb-47c7-9ab1-a58f7057fee0" />
 
-# Hi! Welcome to my GitHub profile
+## Henrique Koaski<br><sub>QA Engineer</sub>
 
-My name is Henrique Koaski, and I am a skilled QA professional in manual and automated testing of API, Web, and Mobile applications. Dedicated to creating clean, maintainable, and well-architected test code.
+<br>
 
-Committed to continuous learning and devoting time daily to mastering and staying up-to-date with the latest QA methodologies, tools, and best practices to ensure the delivery of reliable, high-quality software.
+### About me
 
-Naturally adaptable to new environments and company cultures, with strong communication skills, a proactive mindset, and a problem-solving approach that supports team goals and continuous improvement.
+I am a QA Engineer focused on ensuring end-to-end quality, working on the creation of well-structured test scenarios covering both positive and negative flows. I have a strong attention to detail and a critical mindset driven by `user experience`, always validating `requirements` and `business rules` to anticipate issues before they reach production.
+
+I work with both `manual testing` and `test automation`, covering `Web`, `API`, and `Mobile applications`. I use modern tools such as `Playwright`, `Cypress`, `Selenium`, `Appium`, and `Postman`, along with practices like `BDD` with `Gherkin` to ensure clarity and alignment across teams. When building test automation, I focus on clean, reusable, and maintainable code, applying best practices such as the `Page Object Model`, mainly using `TypeScript` and `Python`.
+
+I also have experience with `CI/CD pipelines` using `GitHub Actions` and `Jenkins`, integrating tests into the development workflow to support continuous delivery with quality. In addition to functional testing, I also work with non-functional testing, including `performance testing` using `k6` and `JMeter`.
+
+In practice, I apply these approaches in projects where I design and validate different testing strategies, always focusing on `quality`, `organization`, and `scalability` — with practical examples available here on my GitHut.
+
+I am a professional who is constantly evolving, keeping up with market trends and quickly adapting to new technologies, always aiming to contribute to the delivery of `stable`, `reliable`, and `high-quality applications`.
 
 
-## 🧑‍💻 My Stack
 
-**Programming Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%2320232a) ![Python](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=%23FFD43B)  
+<br>
 
-**Frameworks:**  
-![CodeceptJS](https://img.shields.io/badge/CodeceptJS-%23F5D300?style=for-the-badge&logo=codeceptjs&logoColor=%232E6F95) ![Pytest](https://img.shields.io/badge/Pytest-%2323D18B?style=for-the-badge&logo=pytest&logoColor=white)  
+### Tech Stack
 
-**Web Testing:**  
-![Selenium WebDriver](https://img.shields.io/badge/Selenium%20WebDriver-%234B77BE?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%2325482C?style=for-the-badge&logo=cypress&logoColor=white)  
+#### ▸ Testing & Automation
 
-**API Testing:**  
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-  
-**Mobile Testing:**  
-![Appium](https://img.shields.io/badge/Appium-%23C7166E?style=for-the-badge&logo=appium&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2300B2A0?style=for-the-badge&logo=android-studio&logoColor=white) 
- 
+`Playwright` `Cypress` `Selenium` `Appium` `CodeceptJS`
 
-  ### **🔄 CI/CD & DevOps**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### ▸ API Testing
 
-### **📊 BDD & Methodologies**
-![Gherkin](https://img.shields.io/badge/Gherkin-5B2063?style=for-the-badge&logo=cucumber&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-5B2063?style=for-the-badge&logo=cucumber&logoColor=white)
-  
- 
-  
+`Postman` `REST APIs`
 
-## 📫 Contact
+#### ▸ Performance Testing
 
-<a href = "mailto:henriquekoaski@outlook.com"><img src="https://img.shields.io/badge/-Email-%230077B5?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/henriquekoaski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+`k6` `JMeter`
+
+#### ▸ Programming Languages
+
+`JavaScript` `TypeScript` `Python`
+
+#### ▸ CI/CD & DevOps
+
+`GitHub Actions` `Jenkins`
+
+#### ▸ Testing Practices
+
+`BDD` `Gherkin` `Page Object Model` `Test Case Design` `Functional Testing` `Non-functional Testing`
+
+#### ▸ Tools & Platforms
+`Git` `GitHub` `Jira` `Zephyr Scale` `Xray` `Android Studio`
+
+
+<br>
+
+
+<br>
+
+### Projects
+
+#### ▸ API Testing
+
+<table>
+<tr>
+<td>
+
+<strong>CodeceptJS API Tests — API Automation</strong><br>
+End-to-end <code>API testing</code> project built with <code>JavaScript</code>, <code>CodeceptJS</code>, <code>BDD</code> with <code>Cucumber</code> and <code>Gherkin</code>, and schema validation using <code>Joi</code>, covering positive and negative CRUD scenarios for the <code>JSONPlaceholder</code> API.<br><br> <strong>Repository:</strong> https://github.com/henriquekoaski/codeceptjs-api-tests
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+<strong>Spaceflight News API</strong><br>
+API automation project focused on validating <code>REST API</code> behavior, response consistency, and automated test coverage for the <code>Spaceflight News API</code>.<br><br> <strong>Repository:</strong> https://github.com/henriquekoaski/spaceflight-news-api-automated-tests
+
+</td>
+</tr>
+</table>
+
+<br>
+
+#### ▸ Web Testing
+
+<table>
+<tr>
+<td>
+
+<strong>Cypress Web Tests</strong><br>
+End-to-end <code>web testing</code> project built with <code>JavaScript</code>, <code>Cypress</code>, <code>BDD</code> with <code>Cucumber</code>, and <code>Page Object Model</code>, focused on functional UI validation for the <code>Automation Exercise</code> website.<br><br> <strong>Repository:</strong> https://github.com/henriquekoaski/cypress-web-tests
+
+</td>
+</tr>
+</table>
+
+<br>
+
+#### ▸ Mobile Testing
+
+<table>
+<tr>
+<td>
+
+<strong>Appium CodeceptJS</strong><br>
+End-to-end <code>mobile testing</code> project built with <code>JavaScript</code>, <code>CodeceptJS</code>, <code>Appium</code>, <code>BDD</code> with <code>Cucumber</code>, and <code>Page Object Model</code>, focused on functional UI validation for the <code>Farfetch</code> application.<br><br> <strong>Repository:</strong> https://github.com/henriquekoaski/appium-codeceptjs-mobile-tests
+
+</td>
+</tr>
+</table>
+
+<br>
 
 
 ---
